@@ -1,0 +1,23 @@
+{
+  "name": "multisigwallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+			"type": "git",
+			"url": "https://github.com/kennethhutw/multi-sig-wallet"
+		},
+  "keywords": [],
+  "author": "Kenneth Hu",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "chai-as-promised": "^7.1.1"
+  }
+}
